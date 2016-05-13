@@ -54,6 +54,7 @@ public class FiltreAntiSpam {
 		catch (IOException e){ 
             System.out.println(e.getMessage()); 
             System.exit(1);
+            //Christian est un penis
 		}
 	}
 	
